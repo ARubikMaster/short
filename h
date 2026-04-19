@@ -1,0 +1,2 @@
+// idk
+echo hello world
