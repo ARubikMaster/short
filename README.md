@@ -23,6 +23,7 @@ Then you can run:
 ## Flags
 
 You can add -h or --here to execute a file from where your current working directory instead of the files local directory
+
 You can add -s or --silent to not print any of the short notifiers ("Running command..." and "Ended with status code...")
 
 Only works on linux.
