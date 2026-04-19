@@ -26,4 +26,6 @@ You can add -h or --here to execute a file from where your current working direc
 
 You can add -s or --silent to not print any of the short notifiers ("Running command..." and "Ended with status code...")
 
+## Platforms
+
 Only works on linux.
